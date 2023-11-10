@@ -23,3 +23,5 @@ Part 1 Online Account creation:
 Part 2 Game Itself:
 
 1. Download latest version by THIS LINK: http://g.talkyun.com.cn/files/pvz2-tw.html?myos=android
+
+2. Install it (It will tell app is already installed and then press update) 

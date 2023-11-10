@@ -45,3 +45,6 @@ Part 2 Game Itself:
     Name: 王天祺    ID:339005199809123329    or try this   Name: 王元昊    ID: 330921199303050039
 
 6. Enjoy the game!
+
+
+For a video tutorial refer to this video (pc and android): https://youtu.be/O1O08CHtegE?si=lgBbUT2PJzOhE1xL

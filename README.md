@@ -7,9 +7,11 @@ PC:
 
 1. Download android emulator
    For Windows and Mac:
-   Memu (Recommended) : https://www.memuplay.com/
+   
+   Bluestacks (Recommended) : https://www.bluestacks.com/bluestacks-5.html
 
    For Linux:
+   
    Waydroid : https://waydro.id/
 
 3. Follow android tutorial
